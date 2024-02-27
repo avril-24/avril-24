@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @avril-24
+- Aspiring data analyst 
 - 👀 I’m interested in developing my data analysis skills
 
 <!---
